@@ -1,4 +1,4 @@
-#Como implementar Testjoin.sql
+# Como implementar Testjoin.sql
 
 Testjoin.sql es un fichero que en su interior contiene las sentencias SQL para la creación de la Base de Datos "testjoin".
 Al ser ejecutado en cualquier interprete SQL, creará en MySql la base de datos correspondiente,
